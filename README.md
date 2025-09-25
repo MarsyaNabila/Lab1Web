@@ -40,9 +40,17 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    # 5. Memformat Teks
    - Menggunakan tag `<b>, <i>, <mark>, <sub>, <sup>.`
 
-   **Tangkap Layar**
+   **Tangkap Layar:**
 
 
    # 6. Menyisipkan Gambar
    - Menambahkan gambar menggunakan tag `<img>` dengan atribut `src, width, alt`, dan `title`.
+
+   **Tangkap Layar:**
+
+
+   # 7. Menambahkan Hyperlink
+   - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
+
+   **Tangkap Layar:**
     
