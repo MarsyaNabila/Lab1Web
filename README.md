@@ -23,9 +23,8 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
   - Menggunakan atribut `align` (tengah, kanan, kiri, rata).
    
    **Tangkap Layar:**
+   <img width="1465" height="183" alt="Screenshot 2025-09-25 210545" src="https://github.com/user-attachments/assets/10f275ef-a16f-48a3-9df4-e60e29f8cb65" />
    
-
-
  # 4. Menambahkan Judul
    - Menambahkan judul `<h1>` dan subjudul `<h2>`
 
