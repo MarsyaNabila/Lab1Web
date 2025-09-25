@@ -19,7 +19,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    **Tangkap Layar:**
    <img width="1637" height="478" alt="Screenshot 2025-09-25 175835" src="https://github.com/user-attachments/assets/30448733-74eb-425a-9b43-6de58ba8435d" />
    
-  # 3. Membuat Paragraf
+ # 3. Membuat Paragraf
   - Menambahkan beberapa paragraf menggunakan tag `<p>.`
   - Menggunakan atribut `align` (tengah, kanan, kiri, rata).
    
@@ -27,32 +27,32 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    
 
 
-   # 4. Menambahkan Judul
+ # 4. Menambahkan Judul
    - Menambahkan judul `<h1>` dan subjudul `<h2>`
 
    **Tangkap Layar:**
 
 
-   # 5. Memformat Teks
+ # 5. Memformat Teks
    - Menggunakan tag `<b>, <i>, <mark>, <sub>, <sup>.`
 
    **Tangkap Layar:**
 
 
-   # 6. Menyisipkan Gambar
+ # 6. Menyisipkan Gambar
    - Menambahkan gambar menggunakan tag `<img>` dengan atribut `src, width, alt`, dan `title`.
 
    **Tangkap Layar:**
 
 
-   # 7. Menambahkan Hyperlink
+ # 7. Menambahkan Hyperlink
    - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
 
    **Tangkap Layar:**
 
-   # Hasil
+ # Hasil
 
-   # 8. Membuat Halaman Kedua
+ # 8. Membuat Halaman Kedua
    - Membuat file
      `lab1_halaman2.html` dengan isi sederhana.
 
