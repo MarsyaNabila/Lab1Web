@@ -18,4 +18,13 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
   - Membuat file
     
     `lab1_tag_dasar.html` dengan struktur standar HTML.
+
+    **Tangkap Layar:**
+
+
+    # 3. Membuat Paragraf
+    - Menambahkan beberapa paragraf menggunakan tag `<p>`.
+    - Menggunakan atribut `align` (tengah, kanan, kiri, rata).
+   
+    **Tangkap Layar**
     
