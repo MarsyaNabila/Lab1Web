@@ -49,7 +49,8 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
 
    **Tangkap Layar:**
-
+   <img width="1205" height="121" alt="Screenshot 2025-09-25 203247" src="https://github.com/user-attachments/assets/ece72106-dda9-420b-af3b-ec4fd66a0312" />
+   
  # Hasil
 
  # 8. Membuat Halaman Kedua
