@@ -15,4 +15,5 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
   # 2. Membuat File HTML Dasar
   - Membuat file
+    `lab1_tag_dasar.html` dengan struktur standar HTML.
     
