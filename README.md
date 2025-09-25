@@ -26,5 +26,11 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
     - Menambahkan beberapa paragraf menggunakan tag `<p>`.
     - Menggunakan atribut `align` (tengah, kanan, kiri, rata).
    
-    **Tangkap Layar**
+   **Tangkap Layar:**
+
+
+   # 4. Menambahkan Judul
+   - Menambahkan judul `<h1>` dan subjudul `<h2>`
+
+   **Tangkap Layar:**
     
