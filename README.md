@@ -13,7 +13,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
   **Tangkap Layar:**
   <img width="1916" height="1079" alt="Screenshot 2025-09-25 163850" src="https://github.com/user-attachments/assets/2c73ace6-95c6-4842-b31b-ab6a21f741dd" />
 
-  # 2. Membuat File HTML Dasar
+ # 2. Membuat File HTML Dasar
   
   - Membuat file
     
@@ -22,7 +22,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
     **Tangkap Layar:**
 
 
-    # 3. Membuat Paragraf
+  # 3. Membuat Paragraf
     - Menambahkan beberapa paragraf menggunakan tag `<p>`.
     - Menggunakan atribut `align` (tengah, kanan, kiri, rata).
    
