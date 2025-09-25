@@ -31,7 +31,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    - Menambahkan judul `<h1>` dan subjudul `<h2>`
 
    **Tangkap Layar:**
-
+   <img width="1200" height="128" alt="Screenshot 2025-09-25 204440" src="https://github.com/user-attachments/assets/62970fda-0355-4cc4-8027-f18920fa1a0c" />
 
  # 5. Memformat Teks
    - Menggunakan tag `<b>, <u>, <i>, <del>.`
