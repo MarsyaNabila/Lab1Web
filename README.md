@@ -50,6 +50,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    <img width="1205" height="121" alt="Screenshot 2025-09-25 203247" src="https://github.com/user-attachments/assets/ece72106-dda9-420b-af3b-ec4fd66a0312" />
    
  # Hasil
+ <img width="1916" height="956" alt="Screenshot 2025-09-25 210802" src="https://github.com/user-attachments/assets/a469e4c4-310c-438a-8a6f-7b668ca888ca" />
 
  # 8. Membuat Halaman Kedua
    - Membuat file
