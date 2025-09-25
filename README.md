@@ -66,16 +66,20 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
 
   #### 2. Perbedaan tag `<p>` dengan `<br>`?
-- 
+- `<p>` digunakan untuk membuat paragraf, otomatis memberi jarak ke atas dan bawah.
+- `<br>` digunakan untuk membuat baris baru (line break) di dalam teks tanpa membuat paragraf baru.
 
   #### 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
-
-
+- `alt` teks alternatif yang ditampilkan jika gambar gagal dimuat. Juga dibaca oleh screen reader untuk aksesibilitas.
+- `title` teks yang muncul sebagai tooltip ketika kursor diarahkan ke gambar.
 
   #### 4. Pengaturan ukuran gambar (`width` dan `height`) ?
-
-
-
+Sebaiknya tidak diisi keduanya sekaligus (hanya satu saja, misalnya width).
+Jika kedua atribut diisi, bisa jadi gambar akan terdistorsi jika nilai yang dimasukkan tidak sesuai dengan rasio asli gambar.
 
   #### 5. Fungsi atribut `target` pada link?
+  - `blank` link dibuka di tab/jendela baru.
+  - `self` link dibuka di halaman/tab yang sama (default).
+  - `top` link dibuka di jendela penuh (menghapus frame, jika ada).
+  - `parent` link dibuka di halaman induk (parent frame, jika link ada dalam frame).
     
