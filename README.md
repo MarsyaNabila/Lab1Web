@@ -34,11 +34,11 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
 
  # 5. Memformat Teks
-   - Menggunakan tag `<b>, <i>, <mark>, <sub>, <sup>.`
+   - Menggunakan tag `<b>, <u>, <i>, <del>.`
 
    **Tangkap Layar:**
-
-
+   <img width="1370" height="127" alt="Screenshot 2025-09-25 204011" src="https://github.com/user-attachments/assets/80c31329-eb62-4a69-ae29-5d81a2566b8e" />
+   
  # 6. Menyisipkan Gambar
    - Menambahkan gambar menggunakan tag `<img>` dengan atribut `src, width, alt`, dan `title`.
 
