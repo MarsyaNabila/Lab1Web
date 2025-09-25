@@ -17,6 +17,8 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
  Membuat file dengan nama `Lab_tag_dasar.html`.
 
    **Tangkap Layar:**
+   <img width="1603" height="644" alt="Screenshot 2025-09-25 211516" src="https://github.com/user-attachments/assets/88ac9b95-cdfc-4d65-b601-7ee196bc5d46" />
+
    
  # 3. Membuat Paragraf
   - Menambahkan beberapa paragraf menggunakan tag `<p>.`
