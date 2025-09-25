@@ -46,7 +46,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    <img width="1474" height="141" alt="Screenshot 2025-09-25 203555" src="https://github.com/user-attachments/assets/a252b398-5435-4b1d-b7c4-4c893940d922" />
 
  # 7. Menambahkan Hyperlink
-   - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
+   - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) 
 
    **Tangkap Layar:**
    <img width="1205" height="121" alt="Screenshot 2025-09-25 203247" src="https://github.com/user-attachments/assets/ece72106-dda9-420b-af3b-ec4fd66a0312" />
