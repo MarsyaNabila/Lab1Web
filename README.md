@@ -53,4 +53,33 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
    - Membuat link navigasi ke halaman lain (`lab1_halaman2.html`) dan link eksternal (Google).
 
    **Tangkap Layar:**
+
+
+
+   # 8. Membuat Halaman Kedua
+   - Membuat file
+     `lab1_halaman2.html` dengan isi sederhana.
+
+  **Tangkap Layar**
+
+
+  # Jawaban Pertanyaan Teori
+
+  # 1. Apa yang terjadi jika ada kesalahan penulisan tag?
+
+
+  # 2. Perbedaan `<p>` dan `<br>`?
+
+
+
+  # 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
+
+
+
+  # 4. Pengaturan ukuran gambar (`width` dan `height`) ?
+
+
+
+
+  # 5. Fungsi atribut `target` pada link?
     
