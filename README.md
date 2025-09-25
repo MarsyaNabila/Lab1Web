@@ -61,12 +61,12 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
   # Jawaban Pertanyaan Pratikum
 
-  #### 1. Apa yang terjadi jika ada kesalahan penulisan tag?
+  #### 1. Apa yang terjadi jika ada kesalahan penulisan tag? 
+  Browser tidak menampilkan error secara langsung, tetapi hasil tampilan bisa berantakan atau tidak sesuai harapan. Jadi browser tetap berusaha membaca, namun struktur dokumen bisa salah.
 
 
   #### 2. Perbedaan tag `<p>` dengan `<br>`?
-          - Browser tidak menampilkan error secara langsung, tetapi hasil tampilan bisa berantakan atau tidak sesuai harapan. Jadi browser tetap berusaha membaca, namun struktur dokumen bisa salah.
-
+- 
 
   #### 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
 
