@@ -15,7 +15,8 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
  # 2. Membuat File HTML 
     
-    Membuat file dengan nama `Lab_tag_dasar.html`
+    Membuat file dengan nama `Lab_tag_dasar.html`.
+
 
     **Tangkap Layar:**
 
