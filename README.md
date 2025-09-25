@@ -70,12 +70,12 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 - `<br>` digunakan untuk membuat baris baru (line break) di dalam teks tanpa membuat paragraf baru.
 
 
-  #### 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
+ #### 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
 - `alt` teks alternatif yang ditampilkan jika gambar gagal dimuat. Juga dibaca oleh screen reader untuk aksesibilitas.
 - `title` teks yang muncul sebagai tooltip ketika kursor diarahkan ke gambar.
 
 
-  #### 4. Pengaturan ukuran gambar (`width` dan `height`) ?
+#### 4. Pengaturan ukuran gambar (`width` dan `height`) ?
 Sebaiknya tidak diisi keduanya sekaligus (hanya satu saja, misalnya width).
 Jika kedua atribut diisi, bisa jadi gambar akan terdistorsi jika nilai yang dimasukkan tidak sesuai dengan rasio asli gambar.
 
