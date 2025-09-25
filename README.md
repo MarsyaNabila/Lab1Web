@@ -65,7 +65,7 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
   1. Apa yang terjadi jika ada kesalahan penulisan tag?
 
 
-  2. Perbedaan `<p>` dan `<br>`?
+  2. Perbedaan tag `<p>` dengan `<br>`?
 
 
 
