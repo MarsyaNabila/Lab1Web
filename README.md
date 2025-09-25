@@ -65,21 +65,21 @@ Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Univer
 
   # Jawaban Pertanyaan Teori
 
-  # 1. Apa yang terjadi jika ada kesalahan penulisan tag?
+  ### 1. Apa yang terjadi jika ada kesalahan penulisan tag?
 
 
-  # 2. Perbedaan `<p>` dan `<br>`?
-
-
-
-  # 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
+  ### 2. Perbedaan `<p>` dan `<br>`?
 
 
 
-  # 4. Pengaturan ukuran gambar (`width` dan `height`) ?
+  ### 3. Perbedaan atribut `title` dan `alt` pada `<img>`?
+
+
+
+  ### 4. Pengaturan ukuran gambar (`width` dan `height`) ?
 
 
 
 
-  # 5. Fungsi atribut `target` pada link?
+  ### 5. Fungsi atribut `target` pada link?
     
