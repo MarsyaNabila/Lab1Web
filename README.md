@@ -5,7 +5,7 @@
 # Pratikum 1 - HTML Dasar
 Repository ini berisi hasil pratikum 1 mata kuliah **Pemrograman Web** di Universitas Pelita Bangsa.
 
-# Langkah-Langkah Pratikum
+# 🚀 Langkah-Langkah Pratikum
 # 1. Membuat Repository
 - Membuat repository baru dengan nama **Lab1Web** di Github.
 - Repository digunakan untuk menyimpan semua file pratikum.
